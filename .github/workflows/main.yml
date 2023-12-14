@@ -16,13 +16,13 @@ on:
         default: '["default"]'
       nav:
         type: string
-        default: '["default"]'
+        default: '["invertedt"]'
       clipboard:
         type: string
         default: '["default"]'
       layers:
         type: string
-        default: '["default"]'
+        default: '["flip"]'
       mapping:
         type: string
         default: '["default"]'
