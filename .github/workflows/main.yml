@@ -19,7 +19,7 @@ on:
         default: '["invertedt"]'
       clipboard:
         type: string
-        default: '["default"]'
+        default: '["win"]'
       layers:
         type: string
         default: '["flip"]'
